@@ -1,0 +1,11 @@
+# Copyright (c) 2022 Oracle and/or its affiliates.
+
+tenancy_ocid="<tenancy OCID here>"
+user_ocid="<user OCID here>"
+fingerprint="<user fingerprint here>"
+private_key_path="<full path to private API key here>"
+region = "<region to deploy to>"
+
+compartment_ocid = "<compartment OCID to deploy in here>"
+permitted_access_cidr = "<your public IP CIDR here>"
+ssh_pub_key_path = "<full path to your private SSH key here>"
